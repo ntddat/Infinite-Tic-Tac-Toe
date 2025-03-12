@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<svg width="480" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect fill="none" height="100%" id="svg_4" width="100%"/>
+ </g>
+ <g class="layer">
+  <title>Layer 2</title>
+  <ellipse cx="170.79" cy="170.45" fill="#000000" id="svg_3" rx="164" ry="163" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="5" transform="matrix(1, 0, 0, 1, 0, 0) matrix(1.43598, 0, 0, 1.44479, -5.7439, -6.35705)"/>
+  <path d="m214.06,325.43l0,0c0,-56.05 45.89,-101.5 102.5,-101.5l0,0c27.18,0 53.26,10.69 72.48,29.73c19.22,19.03 30.02,44.85 30.02,71.77l0,0c0,56.05 -45.89,101.5 -102.5,101.5l0,0c-56.61,0 -102.5,-45.45 -102.5,-101.5zm51.25,0l0,0c0,28.03 22.94,50.75 51.25,50.75c28.31,0 51.25,-22.72 51.25,-50.75c0,-28.03 -22.94,-50.75 -51.25,-50.75l0,0c-28.31,0 -51.25,22.72 -51.25,50.75z" fill="#f39944" fill-opacity="0.95" id="svg_1" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="5"/>
+  <path d="m64.69,206.65l54.89,-49.84l-50.78,-53.88l56.29,-51.13l50.78,53.88l54.89,-49.84l52.09,55.26l-54.89,49.84l50.78,53.88l-56.29,51.13l-50.78,-53.88l-54.89,49.84l-52.09,-55.26z" fill="#f39944" fill-opacity="0.95" id="svg_2" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="5" transform="matrix(1, 0, 0, 1, 0, 0)"/>
+ </g>
+</svg>

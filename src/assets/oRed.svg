@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg width="480" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect fill="none" height="100%" id="svg_4" width="100%"/>
+ </g>
+ <g class="layer">
+  <title>Layer 2</title>
+  <path d="m3.06,239.93l0,0c0,-130.33 105.89,-236 236.5,-236l0,0c62.71,0 122.88,24.85 167.22,69.13c44.34,44.25 69.28,104.29 69.28,166.87l0,0c0,130.33 -105.89,236 -236.5,236l0,0c-130.61,0 -236.5,-105.67 -236.5,-236zm118.25,0l0,0c0,65.18 52.93,118 118.25,118c65.32,0 118.25,-52.82 118.25,-118c0,-65.18 -52.93,-118 -118.25,-118l0,0c-65.32,0 -118.25,52.82 -118.25,118z" fill="#ff0000" id="svg_1" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="5"/>
+  <path d="m-521.31,239.49l119.29,-109.66l-110.36,-118.54l122.35,-112.49l110.36,118.54l119.29,-109.66l113.21,121.58l-119.29,109.66l110.36,118.54l-122.35,112.49l-110.36,-118.54l-119.29,109.66l-113.21,-121.58z" fill="#f39944" fill-opacity="0.95" id="svg_2" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="5" transform="matrix(1, 0, 0, 1, 0, 0)"/>
+ </g>
+</svg>
